@@ -1,0 +1,13 @@
+{
+  "name": "csc303-cicd",
+  "packageManager": "yarn@3.6.3",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
